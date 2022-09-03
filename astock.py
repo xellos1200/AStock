@@ -4,4 +4,4 @@ import streamlit as st
 
 #my stock application
 st.write('hello,guojun')
-st.write('hello,yuming')
+st.write('bonjour,yuming')
